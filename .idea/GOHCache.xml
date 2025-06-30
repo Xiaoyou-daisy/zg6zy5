@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="CalblackReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/apiway/handler/apihandler/wx.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LoginRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service/protobuf/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LoginResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service/protobuf/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service/srvhandler/srv.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SignReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/apiway/handler/apihandler/wx.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedUserServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service/protobuf/user_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Users">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service/models/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="WxUsers">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/apiway/handler/apihandler/wx.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="userClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service/protobuf/user_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="x">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service/protobuf/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/apiway/apicmd/cmd.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751079706606" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/apiway/handler/apihandler/wx.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751084222018" />
+              <option name="schema">
+                <list>
+                  <option value="WxUsers" />
+                  <option value="SignReq" />
+                  <option value="CalblackReq" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/apiway/handler/apirequest/wx.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751080692568" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/apiway/inits/mysql.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751083680992" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/apiway/inits/redis.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1750771133746" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/apiway/routers/routers.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751078327638" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/service/models/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1750751422974" />
+              <option name="schema">
+                <list>
+                  <option value="Users" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/service/pkg/wx.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1750734115363" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/service/protobuf/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1750767754249" />
+              <option name="schema">
+                <list>
+                  <option value="LoginRequest" />
+                  <option value="LoginResponse" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/service/protobuf/user_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1750767754249" />
+              <option name="schema">
+                <list>
+                  <option value="userClient" />
+                  <option value="UnimplementedUserServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/service/srvhandler/srv.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1751013273096" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/service/srvmain/srv.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1750752093088" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="calblack_req" value="CalblackReq" />
+        <entry key="login_request" value="LoginRequest" />
+        <entry key="login_response" value="LoginResponse" />
+        <entry key="server" value="Server" />
+        <entry key="sign_req" value="SignReq" />
+        <entry key="unimplemented_user_server" value="UnimplementedUserServer" />
+        <entry key="user_client" value="userClient" />
+        <entry key="users" value="Users" />
+        <entry key="wx_users" value="WxUsers" />
+        <entry key="x" value="x" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1751193296488" />
+  </component>
+</project>

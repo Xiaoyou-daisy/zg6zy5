@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package user;
+option go_package="./";
+
+//短信验证登录
+message LoginRequest {
+  string Mobile = 1;
+  string Password = 2;
+  optional  string SendSms = 3;
+  int64 Status = 4;
+}
+message LoginResponse {
+  string Msg = 1;
+}
+
+service User {
+  rpc Login(LoginRequest) returns(LoginResponse);
+  
+}
